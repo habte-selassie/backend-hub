@@ -1,0 +1,66 @@
+{
+    "title": "The Impact of Artificial Intelligence on Society",
+    "description": "This is a comprehensive review of the current state of artificial intelligence and its potential impact on society.",
+    "content": "Artificial intelligence has made significant progress in recent years, with applications in areas such as healthcare, finance, and transportation. However, the potential risks and consequences of AI development are still being debated.",
+    "author": {
+      "name": "John Doe",
+      "affiliation": {
+        "name": "University of Technology",
+        "location": {
+          "address": {
+            "street": "123 Main St",
+            "city": "Anytown",
+            "state": "CA",
+            "zip": "12345"
+          },
+          "latitude": 37.7749,
+          "longitude": -122.4194
+        }
+      }
+    },
+    "categories": [
+      {
+        "name": "AI",
+        "subcategories": [
+          {
+            "name": "Machine Learning"
+          },
+          {
+            "name": "Deep Learning"
+          }
+        ]
+      },
+      {
+        "name": "Society",
+        "subcategories": [
+          {
+            "name": "Economy"
+          },
+          {
+            "name": "Politics"
+          }
+        ]
+      }
+    ],
+    "tags": [
+      {
+        "name": "#AI",
+        "type": "hashtag"
+      },
+      {
+        "name": "#MachineLearning",
+        "type": "hashtag"
+      }
+    ],
+    "_metadata": {
+      "_created_at": Date.now(),
+      "_updated_at": Date.now(),
+      "_published_at": Date.now(),
+      "_versions": [
+        {
+          "_version_number": 1,
+          "_version_date": Date.now()
+        }
+      ]
+    }
+  }

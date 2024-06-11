@@ -1,0 +1,23 @@
+{
+    "_id" : ObjectId("..."),
+    "_type" : "_doc",
+    "_index" : ".ml-model-index",
+    "_version" : Long(1),
+    "_score" : null,
+    "_source_data":
+    {
+    "user_id":"user12345",
+    "name":"John Doe",
+    "scores":
+    [
+    {"feature_name":"purchase_frequency","score":-0.5},
+    {"feature_name":"purchase_amount","score":-0.8},
+    {"feature_name":"average_order_value","score":-0.9}
+    ],
+    "profile_info":
+    {
+    "type":"String","value":"High risk"
+    },
+    ["_meta_data"]:
+    {"_id"In (Long,1),"creation_time"In (Date,"now()),}"update_time"In (Date,"now())}
+    }

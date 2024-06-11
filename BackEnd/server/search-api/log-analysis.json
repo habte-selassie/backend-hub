@@ -1,0 +1,38 @@
+{
+    "_id": ObjectId("..."),
+    "_type": "_doc",
+    "_index": ".log-index",
+    "_version": Long(1),
+    "_score": null,
+    "_source_data":
+    {
+      "_timestamp": Date.now(),
+      "_log_level": String("INFO"),
+      "_message": String("User logged in successfully with IP address 192.168.1.100"),
+      "_user_id": String("12345"),
+      "_ip_address": String("192.168.1.100"),
+      "_request_uri": String("/login"),
+      "_user_agent": String("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.3"),
+      "_geo_location":
+      {
+        "_type": String("Point"),
+        "_coordinates":
+        [
+          Double(37.7749),
+          Double(-122.4194)
+        ]
+      },
+      "_user_info":
+      {
+        "_username": String("johndoe"),
+        "_email": String("[johndoe@example.com](mailto:johndoe@example.com)")
+      }
+    },
+    "_meta_data":
+    {
+      "_id" : Long(1),
+      "_creation_time" : Date.now(),
+      "_update_time" : Date.now(),
+      "_source_data_hash" : String("abc123")
+    }
+  }

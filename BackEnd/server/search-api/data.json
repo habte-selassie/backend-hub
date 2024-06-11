@@ -1,0 +1,1306 @@
+
+{
+"status": "ok",
+"totalResults": 323,
+"articles": [
+{"source": {
+"id": null,
+"name": "Spyglass.org"
+},
+"author": "John Gruber",
+"title": "Nvidia Hits the $3T Market Cap Club, Passing Apple, Trailing Only Microsoft",
+"description": "NVIDIA hits $3T market cap and soars past Apple",
+"url": "https://spyglass.org/nvidia-3-trillion/",
+"urlToImage": "https://spyglass.org/content/images/size/w1200/2024/06/Screenshot-2024-06-05-at-10.09.23-PM-2.png",
+"publishedAt": "2024-06-07T02:33:48Z",
+"content": "Back in March, I wrote the following footnote in a post about NVIDIA's just-announced Blackwell chips:\r\nNVIDIA is getting dangerously close to passing Apple -- yes, Apple -- in market cap. Forget Int… [+2971 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Mastodon.social"
+},
+"author": "John Gruber",
+"title": "1Password and Safari",
+"description": "Next week is WWDC, so it's a good time for a thread about the 1Password browser extension for Safari, its history, challenges, and the future — both what we're working on and what we'd like to see from Apple, Safari and the web platform at large. ",
+"url": "https://mastodon.social/@mitchchn/112554203713464394",
+"urlToImage": null,
+"publishedAt": "2024-06-07T00:27:08Z",
+"content": "Speaking of password management and WWDC, Mitch Cohen, product manager of 1Password, wrote a nice thread a few days ago on Mastodon:\n\n\n Next week is WWDC, so it’s a good time for a thread about the\n1… [+527 chars]"
+},
+{
+"source": {
+"id": "the-washington-post",
+"name": "The Washington Post"
+},
+"author": "Victoria Bisset",
+"title": "Florida woman's Apple Watch traces lost luggage to airport worker's home",
+"description": "The Spirit Airlines passenger showed up to a man’s home in Fort Lauderdale after her Apple Watch pinged from that address.",
+"url": "https://www.washingtonpost.com/travel/2024/06/06/lost-luggage-tracking-apple-watch-florida-airport-worker/",
+"urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OZA6BQ4W5XTISIXX2PM4ULRGZM.jpg&w=1440",
+"publishedAt": "2024-06-07T01:15:57Z",
+"content": "A shop worker at a South Florida airport was charged with stealing thousands of dollars in electronics and clothing after a woman showed up to his home looking for missing luggage that she tracked to… [+4829 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "heise online"
+},
+"author": "Wolf Hosbach",
+"title": "Neuer, offener Vulkan-Gaming-Treiber für Apples M1-Hardware",
+"description": "Mit Honeykrisp gibt es nun einen offenen Vulkan-3D-Grafiktreiber für Apples M1-Hardware, der unabhängig vom Betriebssystem ist und neue Spielewelten eröffnet.",
+"url": "https://www.heise.de/news/Neuer-offener-Vulkan-Gaming-Treiber-fuer-Apples-M1-Hardware-9750717.html",
+"urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/0/7/3/1/4/urn-newsml-dpa-com-20090101-201119-99-396099_large_4_3-a5be32966a6e0945.jpg",
+"publishedAt": "2024-06-07T06:03:00Z",
+"content": "Die Open-Source-Entwicklerin Alyssa Rosenzweig hat einen Vulkan-Grafiktreiber für Apple-M1-Hardware veröffentlicht. Mit diesem ist es möglich, Vulkan-basierte Anwendungen und Spiele für die M1-Hardwa… [+2109 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "heise online"
+},
+"author": "Frank Schräer",
+"title": "Freitag: Sicherheit von Internet-Routing, Latenzen bei Fußball-Übertragungen",
+"description": "Pflicht zu sicheren Internet-Routen + Vergleich von EM-Übertragungen + HTCs neues Handy + Starliner angedockt + Funktionen von iOS 18 + Podcast zu Solaranlagen",
+"url": "https://www.heise.de/news/Freitag-Sicherheit-von-Internet-Routing-Latenzen-bei-Fussball-Uebertragungen-9751423.html",
+"urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/0/7/6/9/8/friday-c66e85be10e55153.webp",
+"publishedAt": "2024-06-07T04:30:00Z",
+"content": "Die Routingtabellen des Internets sind anfällig für Manipulation. Daher sollen US-Provider zu Sicherungsmaßnahmen verpflichtet werden. Das hat die US-Regulierungsbehörde FCC einstimmig beschlossen, n… [+7548 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Genbeta.com"
+},
+"author": "Antonio Vallejo",
+"title": "Ticketmaster confirma una filtración masiva de datos que afectaría a más de 560 millones de usuarios. Esto es lo que debes saber",
+"description": "Un documento oficial de Live Nation para las autoridades en Estados Unidos lo confirma: Ticketmaster sufrió el pasado 20 de mayo una filtración masiva de datos. En el documento, la compañía confirma haber detectado “actividad no autorizada” en su base de dato…",
+"url": "https://www.genbeta.com/actualidad/ticketmaster-confirma-filtracion-masiva-datos-que-afectaria-a-560-millones-usuarios-esto-que-debes-saber",
+"urlToImage": "https://i.blogs.es/ce341d/ticket/840_560.jpeg",
+"publishedAt": "2024-06-07T07:23:58Z",
+"content": "Un documento oficial de Live Nation para las autoridades en Estados Unidos lo confirma: Ticketmaster sufrió el pasado 20 de mayo una filtración masiva de datos. En el documento, la compañía confirma … [+3565 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "AppleInsider"
+},
+"author": "news@appleinsider.com (Christine McKee)",
+"title": "Amazon's best Apple Studio Display deal is back at $1,299.99",
+"description": "Amazon's popular Apple Studio Display deal is back, with a $300 cash discount dropping the 27-inch 5K display down to $1,299.99 while supplies last.Save $300 on the Apple Studio Display.Save $300 today on the standard glass Apple Studio Display with a tilt-ad…",
+"url": "https://appleinsider.com/articles/24/06/07/amazons-best-apple-studio-display-deal-is-back-at-129999",
+"urlToImage": "https://photos5.appleinsider.com/gallery/59934-122884-apple-studio-display-deal-xl.jpg",
+"publishedAt": "2024-06-07T00:42:09Z",
+"content": "Save $300 on the Apple Studio Display.\r\nAmazon's popular Apple Studio Display deal is back, with a $300 cash discount dropping the 27-inch 5K display down to $1,299.99 while supplies last.\r\nSave $300… [+967 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "AppleInsider"
+},
+"author": "news@appleinsider.com (Alex Baggott)",
+"title": "How to emulate the original PlayStation and Nintendo 64 on Mac",
+"description": "Games on the Sony PlayStation and Nintendo 64 can be played on an Apple Silicon Mac with a little bit of work. Here's how to emulate the classic consoles on a Mac or MacBook.It is possible to emulate the original Sony PlayStation on an Apple Silicon Mac. The …",
+"url": "https://appleinsider.com/inside/apple-silicon/tips/how-to-emulate-the-original-playstation-and-nintendo-64-on-mac",
+"urlToImage": "https://photos5.appleinsider.com/gallery/59808-122882-ps1onmac-xl.jpg",
+"publishedAt": "2024-06-07T03:12:42Z",
+"content": "It is possible to emulate the original Sony PlayStation on an Apple Silicon Mac. \r\nGames on the Sony PlayStation and Nintendo 64 can be played on an Apple Silicon Mac with a little bit of work. Here'… [+28909 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "AppleInsider"
+},
+"author": "news@appleinsider.com (Thomas Sibilly)",
+"title": "VITURE One XR glasses review: Good versatility with accessory limits",
+"description": "For one-tenth the cost of an Apple Vision Pro, the Viture One XR glasses put a comfortable display on your face to use for most digital activities.VITURE One XR Glasses reviewAlongside the release of Apple Vision Pro, AR and VR and the idea of \"spatial comput…",
+"url": "https://appleinsider.com/articles/24/06/07/viture-one-xr-glasses-review-good-versatility-with-accessory-limits",
+"urlToImage": "https://photos5.appleinsider.com/gallery/59199-121967-IMG_4362-xl.jpg",
+"publishedAt": "2024-06-07T00:30:32Z",
+"content": "VITURE One XR Glasses review\r\nFor one-tenth the cost of an Apple Vision Pro, the Viture One XR glasses put a comfortable display on your face to use for most digital activities.\r\nAlongside the releas… [+5435 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Journal du geek"
+},
+"author": "Thomas Estimbre",
+"title": "Votre iPhone reçoit moins de mises à jour qu’un smartphone Android",
+"description": "Une loi britannique impose à Apple d'indiquer la durée de mise à jour de ses smartphones. Surprise, le fabricant de l'iPhone est « officiellement » en retard sur ses principaux concurrents sous Android.",
+"url": "https://www.journaldugeek.com/2024/06/07/votre-iphone-recoit-moins-de-mises-a-jour-quun-smartphone-android/",
+"urlToImage": "https://www.journaldugeek.com/app/uploads/2024/04/iPhone-15-Pro-Max.jpg",
+"publishedAt": "2024-06-07T05:27:47Z",
+"content": "Apple a la réputation de proposer des mises à jour régulières et prolongées dans le temps sur ses appareils. Ce nombre d’années de support logiciel est souvent présenté comme un argument en faveur de… [+4498 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Applesfera.com"
+},
+"author": "Jesús Quesada",
+"title": "Los iPhone 15 a precio de escándalo, el nuevo iPad ya en oferta y más descuentos: Cazando Gangas",
+"description": "Ya se respira el fin de semana. Es viernes, y como es habitual volvemos con nuestra sección Cazando Gangas, el espacio de Applesfera dedicado a recopilar los mejores chollos de dispositivos de Apple: desde el último iPhone hasta el iPad con mejor relación cal…",
+"url": "https://www.applesfera.com/seleccion/iphone-15-a-precio-escandalo-nuevo-ipad-oferta-descuentos-cazando-gangas",
+"urlToImage": "https://i.blogs.es/386b29/cg-aps/840_560.jpeg",
+"publishedAt": "2024-06-07T06:01:38Z",
+"content": "Ya se respira el fin de semana. Es viernes, y como es habitual volvemos con nuestra sección Cazando Gangas, el espacio de Applesfera dedicado a recopilar los mejores chollos de dispositivos de Apple:… [+5000 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Applesfera.com"
+},
+"author": "Álvaro García M.",
+"title": "NVIDIA ya es más valiosa que Apple, pero la gran ganadora en la era de la inteligencia artificial es OpenAI y Tim Cook la tiene en el bolsillo",
+"description": "Esta semana se ha vivido un hecho histórico en la bolsa de Wall Street: NVIDIA ha superado a Apple como la empresa más valiosa del mundo. Ese primer puesto ha ido bailando, pero inicialmente fue la empresa dirigida por Jen-Hsun Huang la que alcanzó los 3,01 b…",
+"url": "https://www.applesfera.com/apple-1/nvidia-valiosa-que-apple-gran-ganadora-era-inteligencia-artificial-openai-tim-cook-tiene-bolsillo",
+"urlToImage": "https://i.blogs.es/8f1d81/nvidia-apple-openai/840_560.jpeg",
+"publishedAt": "2024-06-07T07:01:34Z",
+"content": "Esta semana se ha vivido un hecho histórico en la bolsa de Wall Street: NVIDIA ha superado a Apple como la empresa más valiosa del mundo. Ese primer puesto ha ido bailando, pero inicialmente fue la e… [+2456 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Dpreview.com"
+},
+"author": "Ben Bowers",
+"title": "Leica’s New LUX iPhone App Seeks to Build a New Generation of Brand Fans",
+"description": "<table>\n\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>Photo: Tucker Bowe</td>\n</tr>\n\r\n\n</table>\nLeica has launched a new LUX app for iOS that's ostensibly intended to reach longstanding fans of the brand and endear a new generation of shooters to the photographic aesthetic …",
+"url": "https://m.dpreview.com/news/1966055179/leica-lux-ios-app-announced",
+"urlToImage": "https://4.img-dpreview.com/files/p/E~TS940x788~articles/1966055179/IMG_0024.png",
+"publishedAt": "2024-06-07T00:02:00Z",
+"content": "Leica has launched a new LUX app for iOS that's ostensibly intended to reach longstanding fans of the brand and endear a new generation of shooters to the photographic aesthetic of the iconic German … [+2345 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Vida Extra"
+},
+"author": "Juan Sanmartín",
+"title": "Es un maravilloso clasicazo de la ciencia ficción, fue pionero e incomprendido en su época y puedes disfrutarlo en streaming. No te pierdas Tron",
+"description": "Existen películas que son adelantadas a su tiempo, y lo que podría entenderse como una ventaja frente a otras producciones, termina convirtiéndose en una maldición que arrastra durante años. Eso fue precisamente lo que le sucedió a Tron, todo un hito de la hi…",
+"url": "https://www.vidaextra.com/cine/maravilloso-clasicazo-ciencia-ficcion-fue-pionero-e-incomprendido-su-epoca-puedes-disfrutarlo-streaming-no-te-pierdas-tron",
+"urlToImage": "https://i.blogs.es/3bf65e/tron/840_560.jpeg",
+"publishedAt": "2024-06-07T07:01:39Z",
+"content": "Existen películas que son adelantadas a su tiempo, y lo que podría entenderse como una ventaja frente a otras producciones, termina convirtiéndose en una maldición que arrastra durante años. Eso fue … [+2384 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Les Numériques"
+},
+"author": "Adrian Branco",
+"title": "Dossier : Lunar Lake : anatomie de la puce avec laquelle Intel veut contrer Qualcomm, AMD et Apple",
+"description": "Alors que l’émulation autour des puces ARM de Qualcomm s’intensifie, qu’AMD gonfle ses muscles sur tous les segments et que Nvidia est pressenti pour se lancer dans le marché des CPU pour PC, Intel dévoile les détails de sa puce Lunar Lake, qui promet de le r…",
+"url": "https://www.lesnumeriques.com/cpu-processeur/lunar-lake-anatomie-de-la-puce-avec-laquelle-intel-veut-contrer-qualcomm-amd-et-apple-a222606.html",
+"urlToImage": "https://cdn.lesnumeriques.com/optim/article/22/222606/7836a462-lunar-lake-anatomie-de-la-puce-avec-laquelle-intel-veut-contrer-qualcomm-amd-et-apple__1200_678__0-220-2500-1532.jpg",
+"publishedAt": "2024-06-07T05:00:00Z",
+"content": "Si vous suivez lactualité des puces pour PC, vous avec forcément entendu parler des puces ARM de Qualcomm, les Snapdragon X Elite, qui promettent monts et merveilles en matière de rapport performance… [+14411 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Caschys Blog"
+},
+"author": "caschy",
+"title": "Mein Gerät finden: Neue Funktion für Googles Netzwerk",
+"description": "Googles neues Netzwerk für das Aufspüren verlorener Geräte ist schon bei vielen Android-Nutzern angekommen. Es gibt zahlreiche Optionen, die man sich zuerst einmal in Ruhe anschauen sollte. Man ist quasi, wie bei Apple, Teil eines großen Netzwerks, welches hi…",
+"url": "https://stadt-bremerhaven.de/mein-geraet-finden-neue-funktion-fuer-googles-netzwerk/",
+"urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2024/05/mein-geraet-finden2.jpg",
+"publishedAt": "2024-06-07T07:00:20Z",
+"content": "Googles neues Netzwerk für das Aufspüren verlorener Geräte ist schon bei vielen Android-Nutzern angekommen. Es gibt zahlreiche Optionen, die man sich zuerst einmal in Ruhe anschauen sollte. Man ist q… [+1029 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Frandroid"
+},
+"author": "Corentin Béchade",
+"title": "Apple veut gérer tous vos mots de passe : pourquoi cela va être difficile",
+"description": "Une vraie application de gestion de mot de passe Made in Apple ça vous botte ? Apple y pense, mais l’entreprise devra prouver qu’elle est digne de concentrer toutes les clés de notre vie numérique.",
+"url": "https://www.frandroid.com/marques/apple/2041236_apple-veut-gerer-tous-vos-mots-de-passe-pourquoi-cela-va-etre-difficile",
+"urlToImage": "https://images.frandroid.com/wp-content/uploads/2020/01/mot-de-passe-3.jpg",
+"publishedAt": "2024-06-07T06:11:39Z",
+"content": "Une vraie application de gestion de mot de passe Made in Apple ça vous botte ? Apple y pense, mais lentreprise devra prouver quelle est digne de concentrer toutes les clés de notre vie numérique. \r\nS… [+3378 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Frandroid"
+},
+"author": "Hugo Clery",
+"title": "Google lance son nouvel outil de notes en France, Apple révèle ses durées de mise à jour et nouveau smartphone chez Nothing – Tech’spresso",
+"description": "Vous n’avez pas eu le temps de suivre l’actualité hier ? Voici ce qui a marqué le jeudi 6 juin : l'outil de note intelligent de Google se lance en France, Apple forcé à révéler la durée de ses mises à jour et un nouveau téléphone pour Nothing. Pour ne manquer…",
+"url": "https://www.frandroid.com/actualites-generales/2041040_google-lance-son-nouvel-outil-de-notes-en-france-apple-revele-ses-durees-de-mise-a-jour-et-nouveau-smartphone-chez-nothing-techspresso",
+"urlToImage": "https://images.frandroid.com/wp-content/uploads/2024/06/google-notebooklm-citations-dark.jpg",
+"publishedAt": "2024-06-07T05:00:40Z",
+"content": "Vous navez pas eu le temps de suivre lactualité hier? Voici ce qui a marqué le jeudi 6 juin : l'outil de note intelligent de Google se lance en France, Apple forcé à révéler la durée de ses mises à j… [+1845 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Caschys Blog"
+},
+"author": "Olli",
+"title": "Apple soll verbesserten Passwort-Manager mit eigener App planen",
+"description": "Nächsten Montag startet die WWDC und die Erwartungen sind nicht besonders gering. Alle Welt geht davon aus, dass Apple endlich Anschluss an das Thema KI findet, Siri damit auf den aktuellen Stand gehoben wird, man bei den Betriebssystemen deutlich nachbessert…",
+"url": "https://stadt-bremerhaven.de/apple-soll-verbesserten-passwort-manager-planen/",
+"urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2019/02/Apple-Logo.jpg",
+"publishedAt": "2024-06-07T05:00:55Z",
+"content": "Nächsten Montag startet die WWDC und die Erwartungen sind nicht besonders gering. Alle Welt geht davon aus, dass Apple endlich Anschluss an das Thema KI findet, Siri damit auf den aktuellen Stand geh… [+1336 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Ifanr.com"
+},
+"author": "何晓涵",
+"title": "早报|比亚迪回应余承东「比亚迪卷价格华为卷价值」言论/广东高考将采用 AI 智能巡考/国行版 Vision Pro 或将于近期发售",
+"description": "· 华为鸿蒙智行或将推出新车型\n· 阿里云与主流手机、PC、汽车厂商已在大模型领域深度合作\n· 「中国版Sora」迎来大更新，首次支持音视频合成#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博",
+"url": "https://www.ifanr.com/1588531",
+"urlToImage": "https://s3.ifanr.com/images/ep/cover-images/sha_tan_pai_qiu_ren_cover.jpg",
+"publishedAt": "2024-06-07T01:00:56Z",
+"content": "x vivo \r\nvivo 2 \r\n vivo X100 Ultra\r\n 5 \r\n Vision Pro \r\n6 Vision Pro \r\n 5 13 3C A2117 Vision Pro\r\n WWDC vision OS2 APPSO / Apple Park \r\nSpaceX \r\nSpaceX \r\n 6 6 20:50 SpaceX \r\n 47 \r\n 73 \r\nSpaceX \r\n AI \r… [+796 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Pitchfork"
+},
+"author": "Meaghan Garvey",
+"title": "Charli XCX: BRAT",
+"description": "Read Meaghan Garvey’s review of the album.",
+"url": "https://pitchfork.com/reviews/albums/charli-xcx-brat/",
+"urlToImage": "https://media.pitchfork.com/photos/65dfd21824cf8305d775f0cd/16:9/w_1280,c_limit/Charli-XCX-Brat.jpg",
+"publishedAt": "2024-06-07T04:01:00Z",
+"content": "The moment bent to Charli as the winter turned to spring, beginning with the February Boiler Room set that broke the companys RSVP record within a matter of hours. In a sweaty Bushwick warehouse, alo… [+2836 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Smartworld.it"
+},
+"author": "Alessandro Nodari",
+"title": "Questa app vuole trasformare il vostro iPhone in una Leica",
+"description": "Scattare con una fotocamera o un'obiettivo Leica da iPhone? È quanto si propone di fare Leica Lux, una nuova app freemium per iOS\r\nL'articolo Questa app vuole trasformare il vostro iPhone in una Leica sembra essere il primo su Smartworld.",
+"url": "https://www.smartworld.it/news/iphone-diventa-leica.html",
+"urlToImage": "https://www.smartworld.it/images/2024/06/07/leica-e-iphone_1200x675.jpg",
+"publishedAt": "2024-06-07T07:02:00Z",
+"content": "\"La fotografia non è cambiata dalle sue origini se non negli aspetti tecnici, che per me non sono importanti\", è una delle frasi più celebri attribuite a Henri Cartier-Bresson, e suonano quanto mai d… [+2200 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Deadline"
+},
+"author": "Damon Wise",
+"title": "‘The Watchers’ Review: Ishana Night Shyamalan’s Folk-Horror Tale Gets Lost In Its Own Plot",
+"description": "So, is it The Watchers or is it The Watched? In North America it’s the former, in the UK and Ireland it’s the latter, and it’s a testament to the all-over-the-shop plotting of Ishana Night Shyamalan’s feature debut that it doesn’t really make much difference …",
+"url": "http://deadline.com/2024/06/the-watchers-review-ishana-night-shyamalan-dakota-fanning-rambling-folk-horror-tale-gets-lost-in-its-own-plot-1235961453/",
+"urlToImage": "https://deadline.com/wp-content/uploads/2024/02/The-Watchers.jpg?w=1024",
+"publishedAt": "2024-06-07T01:00:00Z",
+"content": "So, is it The Watchers or is it The Watched? In North America it’s the former, in the UK and Ireland it’s the latter, and it’s a testament to the all-over-the-shop plotting of Ishana Night Shyamalan’… [+5096 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Digiday"
+},
+"author": "Marty Swant",
+"title": "How Sonos plans to market its new Ace high-end headphones in a noisy category",
+"description": "The longtime speaker leader has a plan for competing in the crowded category while also reaching new audiences.",
+"url": "http://digiday.com/marketing/how-sonos-plans-to-market-its-new-ace-high-end-headphones-in-a-noisy-category/",
+"urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2023/04/audio-monetization-digiday.jpg",
+"publishedAt": "2024-06-07T04:01:00Z",
+"content": "When it comes to high-end wireless headphones, there are plenty of major players on the market. But Sonos a longtime leader in the speaker category has a plan for competing in the crowded category wh… [+8092 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Creative Bloq"
+},
+"author": "joe.foley@futurenet.com (Joe Foley)",
+"title": "Apple WWDC 2024: get ready for lots of AI news",
+"description": "Everything we expect to learn about iOS 18, iPadOS 18, macOS 15 and more.",
+"url": "https://www.creativebloq.com/tech/apple-wwdc-2024-get-ready-for-lots-of-ai-news",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/Tf7TB2hBh6MvAZb2JQc5Kg-1200-80.jpg",
+"publishedAt": "2024-06-07T06:00:36Z",
+"content": "AppleWWDC 2024 is taking place on Monday, and we're expecting updates on all of the software' giant's main operating systems. We expect artificial intelligence to be high on the agenda, with AI-drive… [+5249 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "La Vanguardia"
+},
+"author": "Fran Besora",
+"title": "iOS 18 tendrá una aplicación nativa para gestionar nuestras contraseñas",
+"description": "Apple lanzaría su propia aplicación para gestionar contraseñas en iOS 18, iPadOS 18 y macOS 15. Esta aplicación llegaría para competir con alternativas de la competencia como 1Password. Es importante tener en cuenta que esto supondría un gran cambio, ya que a…",
+"url": "https://www.lavanguardia.com/andro4all/apple/ios-18-tendra-una-aplicacion-nativa-para-gestionar-nuestras-contrasenas",
+"urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/06/apple-lanzaria-una-app-nativa-llavero-de-icloud-ios-18.jpg?width=1200",
+"publishedAt": "2024-06-07T06:41:18Z",
+"content": "El llavero de iCloud se convertiría en una aplicación en iOS 18\r\nApple lanzaría su propia aplicación para gestionar contraseñas en iOS 18, iPadOS 18 y macOS 15. Esta aplicación llegaría para competir… [+2142 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Impress.co.jp"
+},
+"author": null,
+"title": "XiaomiのスマートテレビやApple Watchがセール価格に、「au ＋1 collection夏まつり2024」はじまる",
+"description": "KDDIは、au公式アクセサリーの「au ＋1 collection」で対象製品が最大1万6500円引きの「au ＋1 collection夏まつり2024」を開始した。期間は8月19日まで。",
+"url": "https://k-tai.watch.impress.co.jp/docs/news/1598220.html",
+"urlToImage": "https://k-tai.watch.impress.co.jp/img/ktw/list/1598/220/sub.png",
+"publishedAt": "2024-06-07T03:17:25Z",
+"content": "KDDIauau 1 collection16500au 1 collection2024819 \r\n Apple WatchChromebookXRXiaomi TV A Pro 656516500 \r\n Apple Watch Ultra 2Apple Watch Series 911000 \r\n auau 1 collection"
+},
+{
+"source": {
+"id": null,
+"name": "Impress.co.jp"
+},
+"author": null,
+"title": "両方がハッピー。iOS+Android両対応忘れ物防止タグが登場へ",
+"description": "台湾にて開催中のCOMPUTEX TAIPEI 2024にて、Appleの「Find My(探す)」とGoogleの「Find My Device(デバイスを探す)」のどちらも対応するBlueoothのMCU(Micro Controller Unit)がRealtekのブースで展示されている。",
+"url": "https://pc.watch.impress.co.jp/docs/news/event/1598185.html",
+"urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1598/185/cmrf_01.jpg",
+"publishedAt": "2024-06-07T01:55:02Z",
+"content": "COMPUTEX TAIPEI 2024AppleFind My()GoogleFind My Device()BlueoothMCU(Micro Controller Unit)Realtek\r\n MCU \r\n AppleFind MyiOSAppleAirTag \r\n Google Find My Device(2024)5ChipoloPebblebeeGoogle6RealtekAndr… [+87 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Googlewatchblog.de"
+},
+"author": "Jens",
+"title": "Mein Gerät finden: Google will Geräte in der Nähe zeigen – Unterstützung für UWB und AR kommt (Teardown)",
+"description": "Mit dem kürzlich gestarteten Netzwerk Mein Gerät finden haben alle teilnehmenden Nutzer die Möglichkeit, den Standort ihrer registrierten Geräte abzurufen und diese mit etwas Geduld auch an weit entfernten Orten ohne Internetverbindung aufzuspüren. Aber auch …",
+"url": "https://www.googlewatchblog.de/2024/06/mein-geraet-google-geraete/",
+"urlToImage": "https://www.googlewatchblog.de/wp-content/uploads/mein-geraet-finden-logo-cover-google.jpg",
+"publishedAt": "2024-06-07T06:30:28Z",
+"content": "Mit dem kürzlich gestarteten Netzwerk Mein Gerät finden haben alle teilnehmenden Nutzer die Möglichkeit, den Standort ihrer registrierten Geräte abzurufen und diese mit etwas Geduld auch an weit entf… [+2865 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Inside.com.tw"
+},
+"author": "Sisley",
+"title": "ChatGPT 新功能「背景對話」是什麼？如何開啟？如何運作？",
+"description": "經過測試，在 iPhone 上，即使螢幕關閉，對話也能持續進行，而 ChatGPT 的回覆將作為即時動態通知，顯示在鎖定螢幕上。",
+"url": "https://www.inside.com.tw/article/35256-chatgpt-background-conversations",
+"urlToImage": "https://bucket-image.inkmaginecms.com/version/social/1/image/2024/06/349ee978-651e-4386-887c-8900a36b4c77.jpg",
+"publishedAt": "2024-06-07T03:09:00Z",
+"content": "ViewSonic TeamJoin\r\n/Photo Credits ViewSonic\r\nViewSonic TeamJoin Teams Rooms PC\r\nViewSonicTeamJoin 219 Microsoft Teams Rooms /Photo Credits ViewSonic\r\nTeamJoin \r\nTeamJoin TeamJoin HDMI \r\nTeamJoin /Ph… [+149 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Inside.com.tw"
+},
+"author": "Sisley",
+"title": "WWDC 在即，為何這將是蘋果「關鍵一役」！有哪些 AI 優勢？",
+"description": "外媒分析，蘋果在 AI 一戰之中擁有的兩大優勢：隱私與環保，而這也是現在 AI 技術發展的最大爭議。",
+"url": "https://www.inside.com.tw/article/35259-apple-ai-strategy-wwdc",
+"urlToImage": "https://bucket-image.inkmaginecms.com/version/social/1/image/2024/06/6aff2319-2f47-4f22-8542-5b3b20bbf274.jpg",
+"publishedAt": "2024-06-07T04:54:00Z",
+"content": "COMPUTEX AI PC Apple WWDC AI WWDC AI \r\nOpenAI ChatGPT iOS 9TO5Mac AI AI \r\n WWDC AI \r\n AI AI iPhone AI \r\n9TO5Mac\r\n AI Microsoft Recall \r\n OpenAI 2012 AI 3 4 2040 ICT 14 GPU NVIDIA CEO \r\n WWDC AI AI \r\n… [+29 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "NPR"
+},
+"author": "Emily Kwong",
+"title": "Drag queen Kyne Santos explores how math is 'beautiful' in new book 'Math in Drag'",
+"description": "<a href=\"https://www.onlinekyne.com/\">Kyne Santos</a> was a student at the University of Waterloo when she began her math and her drag careers. She compares her double life to Hannah Montana, doing math equations at school by day and drag at night. You may al…",
+"url": "https://www.npr.org/2024/06/07/1198910152/math-drag-queen-kyne-santos-tiktok",
+"urlToImage": "https://media.npr.org/assets/img/2024/06/06/kyne-image_wide-16b1b0eaa4eb3fab9ee9df6ab636b4a362323c29.jpg?s=1400&c=100&f=jpeg",
+"publishedAt": "2024-06-07T07:00:59Z",
+"content": "Kyne wearing her hyperbolic plane dress. Author photo by Fabian Di Corcia.\r\nFabian Di Corcia/Fabian Di Corcia\r\nKyne Santos was a student at the University of Waterloo when she began her math career a… [+1339 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Ghacks Technology News"
+},
+"author": "Ashwin",
+"title": "PSA: Mac app Bartender has been acquired silently by a company",
+"description": "The popular Mac app Bartender has changed hands. The app has been acquired silently by a company, which has raised some questions. Well, this isn't the first time an app has been […]\nThank you for being a Ghacks reader. The post PSA: Mac app Bartender has bee…",
+"url": "https://www.ghacks.net/2024/06/07/psa-mac-app-bartender-has-been-acquired-silently-by-a-company/",
+"urlToImage": "https://www.ghacks.net/wp-content/uploads/2024/06/PSA-Mac-app-Bartender-has-been-acquired-silently-by-a-company.jpg",
+"publishedAt": "2024-06-07T05:08:28Z",
+"content": "The popular Mac app Bartender has changed hands. The app has been acquired silently by a company, which has raised some questions.\r\nWell, this isn't the first time an app has been sold by a developer… [+4604 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Getnews.jp"
+},
+"author": "Billboard JAPAN",
+"title": "【ビルボード 2024年上半期UGC Songs】Creepy Nuts「Bling-Bang-Bang-Born」が圧倒的トップ、Number_i「GOAT」の特徴にも注目",
+"description": "【ビルボード 2024年上半期UGC Songs】Creepy Nuts「Bling-Bang-Bang-Born」が圧倒的トップ、Number_i「GOAT」の特徴にも注目",
+"url": "https://getnews.jp/archives/3533808",
+"urlToImage": "https://www.billboard-japan.com/common/sys/img/news/00000138/138436/image.jpg",
+"publishedAt": "2024-06-07T01:30:00Z",
+"content": "2024Billboard JAPAN UGCTop User Generated SongsCreepy NutsBling-Bang-Bang-Born1\r\nYouTubeUGCBling-Bang-Bang-BornTV-MASHLE- BBBB11720241811411218 \r\n220238VOCALOIDVOCALOID VOCALOID SONGS TOP202\r\n3YOASOB… [+481 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Getnews.jp"
+},
+"author": "Billboard JAPAN",
+"title": "【ビルボード 2024年上半期Top Singles Sales】Snow Man『LOVE TRIGGER / We’ll go together』で首位　Aぇ! group／乃木坂46が続く",
+"description": "【ビルボード 2024年上半期Top Singles Sales】Snow Man『LOVE TRIGGER / We’ll go together』で首位　Aぇ! group／乃木坂46が続く",
+"url": "https://getnews.jp/archives/3533809",
+"urlToImage": "https://www.billboard-japan.com/common/sys/img/news/00000138/138224/image.jpg",
+"publishedAt": "2024-06-07T01:30:00Z",
+"content": "2024Billboard JAPANTop Singles SalesSnow Man10thLOVE TRIGGER / Well go together1,294,858\r\n202311272024526624LOVE TRIGGERWe’ll go togetherA2024214212213858,3922122151,057,0417\r\n2A! groupABEGINNING811,… [+715 chars]"
+},
+{
+"source": {
+"id": "techradar",
+"name": "TechRadar"
+},
+"author": "Roland Moore-Colyer",
+"title": "Will Apple go big on AI at WWDC 2024? Almost certainly – but it could ‘think different’",
+"description": "Apple is tipped to focus on AI at WWDC 2024, but it'll likely focus on tightly integrated and consumer-centric smart tools.",
+"url": "https://www.techradar.com/computing/artificial-intelligence/will-apple-go-big-on-ai-at-wwdc-2024-almost-certainly-but-it-could-think-different",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/82h3EmfdXLnBSom5Dsk8EC-1200-80.jpg",
+"publishedAt": "2024-06-07T05:00:03Z",
+"content": "You can’t swing a metaphorical cat in a virtual room without some tech-savvy person harping on about AI. And over the past year and a bit, AI interest has exploded thanks to the rise of generative AI… [+5504 chars]"
+},
+{
+"source": {
+"id": "techradar",
+"name": "TechRadar"
+},
+"author": "cesartechradar@gmail.com (Cesar Cadenas)",
+"title": "Leica's new iOS app transforms your iPhone into one of its cameras for free",
+"description": "The LUX app can imitate the performance of a Leica lens and multiple \"color gradations\" from the cameras.",
+"url": "https://www.techradar.com/phones/ios/leicas-new-ios-app-transforms-your-iphone-into-one-of-their-cameras-for-free",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/3S5Wy4bTbr4CgTMfQy7yjQ-1200-80.jpg",
+"publishedAt": "2024-06-07T03:30:05Z",
+"content": "Leica has launched a new iOS app called LUX that allows iPhones to mimic one of its cameras. The app accomplishes this in two major ways. \r\nFirst, LUX has a feature called “Aperture Mode,\" which simu… [+3072 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Jeanette Hurt, Contributor, \n Jeanette Hurt, Contributor\n https://www.forbes.com/sites/jeanettehurt/",
+"title": "Father’s Day Gift Guide: American Single Malts",
+"description": "If your dad likes innovation and American spirit, then why not consider gifting him a bottle of American Single Malt whiskey?",
+"url": "https://www.forbes.com/sites/jeanettehurt/2024/06/06/fathers-day-gift-guide-american-single-malts/",
+"urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6662771b1d254e250ca4a69b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+"publishedAt": "2024-06-07T03:26:19Z",
+"content": "The name \"Cataleja\" is a loose translation of the word \"spyglass.\"\r\nBalcones\r\nIf your dad likes innovation and American spirit, then why not consider gifting him a bottle of American Single Malt whis… [+7426 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Zak Doffman, Contributor, \n Zak Doffman, Contributor\n https://www.forbes.com/sites/zakdoffman/",
+"title": "Microsoft Issues New Warning For 70% Of All Windows Users",
+"description": "Time is fast running out—don’t take the risk…",
+"url": "https://www.forbes.com/sites/zakdoffman/2024/06/07/new-microsoft-warning-for-windows-10-windows-11-free-upgrade/",
+"urlToImage": "https://imageio.forbes.com/specials-images/imageserve/665fd748f52ec6750cddbbf1/0x0.jpg?format=jpg&crop=2590,1781,x399,y82,safe&height=900&width=1600&fit=bounds",
+"publishedAt": "2024-06-07T04:19:14Z",
+"content": "Microsofts new warnings kick in as hundreds of millions risk losing support\r\nNurPhoto via Getty Images\r\nUpdated on June 7 to include Recall security warnings for Windows users.\r\nIt turns out that con… [+9152 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Hdblog.it"
+},
+"author": "HDblog.it",
+"title": "Apple, con iOS 18 e macOS 15 sarebbe in arrivo anche un'app Password dedicata",
+"description": "La nuova app sarà disponibile su tutte le piattaforme Apple",
+"url": "https://www.hdblog.it/smartphone/articoli/n584920/apple-ios-18-macos-app-password/",
+"urlToImage": "https://hd2.tudocdn.net/1164498?w=1920",
+"publishedAt": "2024-06-07T06:12:00Z",
+"content": "Apple sarebbe prossima al lancio di una nuova app chiamata Passwords che renderà più semplice la gestione delle credenziali di accesso a siti web e applicazioni. Secondo quanto riportato da Bloomberg… [+1792 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Antyweb.pl"
+},
+"author": "Piotr Kurek",
+"title": "Te aplikacje i gry musisz znać. Doceniło je samo Apple",
+"description": "Apple na kilka dni przed WWDC rozdało swoje nagrody \"Apple Design Awards 2024\". To zaskakuje, gdyż do tej pory firma doceniała najlepsze aplikacje i gry na sprzęty z logo nadgryzionego jabłka w trakcie trwania najważniejszej dla niej konferencji. Kto zdobył u…",
+"url": "https://antyweb.pl/te-aplikacje-i-gry-musisz-znac-docenilo-je-samo-apple",
+"urlToImage": "https://antyweb.pl/img/1250/550/fit/wp-content/uploads/2024/06/1nvk5xowyu/design.jpg",
+"publishedAt": "2024-06-07T07:25:13Z",
+"content": "Jak co roku przed WWDC, Apple przedstawio finalistów Design Awards, którzy rywalizuj o nagrod dla najlepiej zaprojektowanej aplikacji lub gry dostpnej w App Store, niezalenie od platformy, na której … [+3249 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Antyweb.pl"
+},
+"author": "Kamil Świtalski",
+"title": "Samsung i Google pokonali Apple w ich własnej grze? To się dopiero okaże",
+"description": "Kto da więcej? To dobre pytanie w kwestii wsparcia i aktualizacji smartfonów. W sieci pojawiła się ciekawa dyskusja po tym, jak Apple pierwszy raz zadeklarowało przez ile lat co najmniej będzie wspierać iPhone 15 Pro Max.\n \n The post Samsung i Google pokonali…",
+"url": "https://antyweb.pl/samsung-i-google-pokonali-apple-w-ich-wlasnej-grze-to-sie-dopiero-okaze",
+"urlToImage": "https://antyweb.pl/img/1250/550/fit/wp-content/uploads/2023/09/gh9v89u6rm/iphone-15-24.jpg",
+"publishedAt": "2024-06-07T06:06:38Z",
+"content": "Jednym z argumentów za tym by wybra iPhone'a przez lata bya jego dugowieczno i obietnica wielu lat wsparcia w postaci oprogramowania. I patrzc wstecz: faktycznie, trudno si do czegokolwiek przyczepi … [+1939 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Iphoneitalia.com"
+},
+"author": "Giuseppe Migliorino",
+"title": "Apple lancerà l’app nativa Password con iOS 18",
+"description": "Con iOS 18 arriverà l'app standalone Password di Apple. \nLink all'articolo originale: Apple lancerà l’app nativa Password con iOS 18",
+"url": "https://www.iphoneitalia.com/826981/app-password-apple-ios-18",
+"urlToImage": "https://static.iphoneitalia.com/wp-content/uploads/2024/02/Password.jpeg",
+"publishedAt": "2024-06-07T06:39:31Z",
+"content": "Apple prevede di lanciare una nuova app Passwords in iOS 18, iPadOS 18 e macOS 15, almeno secondo Mark Gurman di Bloomberg.\r\nL’app Password di Apple, che fungerà da alternativa alle app di terze part… [+1401 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Olhardigital.com.br"
+},
+"author": "Matheus Chaves",
+"title": "iMessage: o que é e como usar o serviço de comunicação da Apple",
+"description": "Você tem um dispositivo da Apple e não sabe o que é o iMessage e muito menos como usá-lo? Descubra tudo sobre o serviço!\nO post iMessage: o que é e como usar o serviço de comunicação da Apple apareceu primeiro em Olhar Digital.",
+"url": "https://olhardigital.com.br/2024/06/06/dicas-e-tutoriais/imessage-o-que-e-e-como-usar-o-servico-de-comunicacao-da-apple/",
+"urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2024/06/iMessage-scaled.jpg",
+"publishedAt": "2024-06-07T00:20:00Z",
+"content": "Você sabia que é possível trocar mensagens com outras pessoas que possuem aparelhos da Apple de forma gratuita? Para isso, basta utilizar o iMessage, a plataforma de mensagens exclusiva da Apple e mu… [+1242 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Olhardigital.com.br"
+},
+"author": "Kelvin Leão Nunes da Costa",
+"title": "10 melhores filmes sobre freiras, do terror à comédia",
+"description": "As freiras são figuras bem exploradas no cinema, indo desde filmes de horror até comédias. Confira nossa seleção dos melhores do gênero!\nO post 10 melhores filmes sobre freiras, do terror à comédia apareceu primeiro em Olhar Digital.",
+"url": "https://olhardigital.com.br/2024/06/06/cinema-e-streaming/10-melhores-filmes-sobre-freiras-do-terror-a-comedia/",
+"urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2024/06/Design-sem-nome-5-scaled.jpg",
+"publishedAt": "2024-06-07T01:20:00Z",
+"content": "O filme de terror Imaculada, que está em cartaz nos cinemas desde 30 de maio, traz a atriz Sydney Sweeney interpretando uma freira. Contudo, este é mais um dos filmes recentes a apresentar a figura d… [+6870 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Tinhte.vn"
+},
+"author": "no-reply@tinhte.vn (Anh Tú.), Anh Tú.",
+"title": "Apple sắp giới thiệu ứng dụng \"Passwords\" mới tại WWDC24?",
+"description": "Theo Bloomberg, Apple dự kiến sẽ giới thiệu ứng dụng Passwords mới tại Hội nghị các nhà phát triển toàn cầu (WWDC) diễn ra vào tuần tới. Ứng dụng này sẽ giúp người dùng quản lý thông tin đăng nhập của mình một cách dễ dàng và hiệu quả hơn.",
+"url": "https://tinhte.vn/thread/apple-sap-gioi-thieu-ung-dung-passwords-moi-tai-wwdc24.3795162/",
+"urlToImage": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8357190_bd9fa2151730adfb13c9c9ded5970670.jpg",
+"publishedAt": "2024-06-07T05:33:27Z",
+"content": "Passwords kh nng cao s ra mt cùng vi iOS 18, iPadOS 18 và macOS 15. ng dng này s có kh nng to và lu tr mt khu, tng t nh các trình qun lý mt khu nh LastPass và 1Password. Ngoài ra, Passwords còn c cho… [+197 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Tinhte.vn"
+},
+"author": "no-reply@tinhte.vn (Anh Tú.), Anh Tú.",
+"title": "Doanh số iPhone có nguy cơ tụt dốc mạnh trong năm 2024, Huawei và AI là nguyên nhân chính",
+"description": "Theo nhà phân tích Ming-Chi Kuo, Apple đã cắt giảm 15% đơn đặt hàng linh kiện iPhone so với cùng kỳ năm ngoái, do người dùng Trung Quốc ngày càng ưa chuộng smartphone AI và điện thoại gập của Huawei.\n \nhttps://tinhte.",
+"url": "https://tinhte.vn/thread/doanh-so-iphone-co-nguy-co-tut-doc-manh-trong-nam-2024-huawei-va-ai-la-nguyen-nhan-chinh.3794869/",
+"urlToImage": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8356299_ef323335a97930918ed174efd81513ce.jpg",
+"publishedAt": "2024-06-07T01:22:20Z",
+"content": "Chán my hãng ch na hàng xóm tht. Cui cùng li vn phi da vào lão i. Ko có heo quay là ko làm c trò trng j, ko có heo quay là ko ai tr ni Apple. Ging y chang:\r\nHuawei có th là cái tên cui cùng to nên là… [+1270 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Tinhte.vn"
+},
+"author": "no-reply@tinhte.vn (Anh Tú.), Anh Tú.",
+"title": "Bloomberg: Apple hợp tác với OpenAI, mang ChatGPT lên iOS 18 nhưng cho phép người dùng tùy chọn",
+"description": "Apple đang cân nhắc việc tích hợp chatbot ChatGPT của OpenAI vào iOS 18, dự kiến ra mắt tại Hội nghị các nhà phát triển toàn cầu WWDC24 sắp tới. Tuy nhiên, người dùng sẽ có quyền quyết định có sử dụng tính năng này hoặc không, theo Bloomberg.",
+"url": "https://tinhte.vn/thread/bloomberg-apple-hop-tac-voi-openai-mang-chatgpt-len-ios-18-nhung-cho-phep-nguoi-dung-tuy-chon.3795040/",
+"urlToImage": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8356868_681305031cd12056f6ed23d6a5505625.jpg",
+"publishedAt": "2024-06-07T01:33:29Z",
+"content": "Ngoài ChatGPT, bn cp nht iOS 18 d kin s có nhiu thay i vi nhiu tính nng h tr AI khác nhau trên thanh spotlight, biu tng cm xúc và các ng dng tích hp sn. Bn cp nht có th s gii thiu thêm nhiu tính nng … [+486 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Tinhte.vn"
+},
+"author": "no-reply@tinhte.vn (Anh Tú.), Anh Tú.",
+"title": "Apple Store Online Việt Nam đã cho đặt hàng iPad Pro M4, ship từ 1-3 ngày",
+"description": "Dù đã có rất nhiều anh em tại Việt Nam có iPad Pro M4 xài rồi nhưng cho tới hiện tại Apple mới cho đặt hàng trên website chính thức của họ tại Việt Nam. Đây là thông tin mà nhiều anh em đã mong đợi trong những ngày qua.",
+"url": "https://tinhte.vn/thread/apple-store-online-viet-nam-da-cho-dat-hang-ipad-pro-m4-ship-tu-1-3-ngay.3795186/",
+"urlToImage": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8357322_1649c89169679a24492440ae086bbdab.jpg",
+"publishedAt": "2024-06-07T07:26:57Z",
+"content": "Vi Magic Keyboard mi, nó s có mc giá khi im là 9.799.000 VND và có h tr tr góp. Nó cng có 2 phiên bn là màu en và màu trng nhng mình ngh anh em nào không cn thn thì nên mua màu en nó s d hn, anh em l… [+827 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Neowin"
+},
+"author": "Aditya Tiwari",
+"title": "Apple to launch a new Passwords app at WWDC 2024, states report",
+"description": "Apple is reportedly working on a new Passwords app for its own platforms and Windows. The company is expected to launch its password manager app at the WWDC 2024 event later this month. Read more...",
+"url": "https://www.neowin.net/news/apple-to-launch-a-new-passwords-app-at-wwdc-2024-states-report/",
+"urlToImage": "https://cdn.neowin.com/news/images/uploaded/2024/06/1717741532_apple_icloud_passwords_story.jpg",
+"publishedAt": "2024-06-07T07:02:01Z",
+"content": "Apple is about to give a new home to the Passwords page which is buried in the Settings app on iPhone, iPad, and Mac. The company is expected to launch a new password management app at the WWDC 2024 … [+1975 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "3dnews.ru"
+},
+"author": null,
+"title": "Rapidus рассчитывает, что Apple и Microsoft станут её клиентами в рамках 2-нм техпроцесса",
+"description": "Основанная в августе 2022 года японская компания Rapidus поставила перед собой амбициозную цель к 2027 году наладить на территории страны выпуск 2-нм продукции на контрактной основе. Уже в апреле следующего года, как поясняет Nikkei Asian Review, начнётся опы…",
+"url": "https://3dnews.ru/1106106/rapidus-rasschitivaet-chto-apple-i-microsoft-stanut-eyo-klientami-v-ramkah-2nm-tehprotsessa",
+"urlToImage": "https://3dnews.ru/assets/external/illustrations/2024/06/07/1106106/rapidus_01.jpg",
+"publishedAt": "2024-06-07T06:00:00Z",
+"content": "2022 Rapidus 2027 2- . , Nikkei Asian Review, 2- Seiko Epson , 2027 Rapidus . , Apple, Microsoft Tesla.\r\n: Rapidus\r\n, Nikkei Rapidus (Tetsuro Higashi) : « , 2- ». , Apple, Microsoft Tesla. , , Tesla … [+82 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Cult of Mac"
+},
+"author": "Cult of Mac Deals",
+"title": "This app can identify more than 33,000 plant species",
+"description": "iOS plant identifier app Plantum also serves up tips for plant care. Get a lifetime premium sub for just $16.97 (regularly $59.99).\n(via Cult of Mac - Apple news, rumors, reviews and how-tos)",
+"url": "https://www.cultofmac.com/819734/plantum-plant-identifier-app/",
+"urlToImage": "https://www.cultofmac.com/wp-content/uploads/2023/06/COM-NatureID-Plant-Identification-Premium-Plan-Lifetime-Subscription.jpeg",
+"publishedAt": "2024-06-07T00:27:41Z",
+"content": "fLove spending time outdoors or nurturing greenery? Consider Plantum, an AI-powered plant identifier thats like a flora encyclopedia you can carry around in your pocket. This iOS plant identification… [+2610 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Cool3c.com"
+},
+"author": "Mash Yang",
+"title": "蘋果 2024 設計大獎揭曉 14 款 App 與遊戲獲獎",
+"description": "蘋果宣布今年度的 Apple 設計大獎得主，包含 14 款 App 與遊戲，涵蓋多元類別，展示創新、包容和卓越設計。 蘋果稍早公布今年度的Apple設計大獎獲獎名單，其中總計14款App與遊戲作品，其中包含幫助使用者養成實踐日常感恩習慣的《Bears Gratitude》、由紐約時報打造的遊戲合輯《New York Times Games》，以及透過觸覺、音訊提醒行人交通號誌狀態，讓視障人士能安心行經交通路口的《oko》等。 此次獲獎內容，分別包含「趣味體驗類」、「多元包容類」、「創新思維類」、「互動交流類」、「…",
+"url": "https://www.cool3c.com/article/217673",
+"urlToImage": "https://sw.cool3c.com/user/98521/2024/d8c99c50-92d2-4f18-b565-61d27be788c7.jpg?auto=compress&fix=max&w=2560",
+"publishedAt": "2024-06-07T05:36:31Z",
+"content": "Apple 14 App \r\nApple14AppBears GratitudeNew York Times Gamesoko\r\n71App14App42\r\nApple Susan Prescott app app WWDC \r\nApple \r\nAppBears GratitudeIsuru Wanasinghe ()\r\nBears Gratitude app app \r\nWWDC 2024, … [+4131 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Elespanol.com"
+},
+"author": "César Rebolledo",
+"title": "FREE FIRE MAX | Códigos de hoy viernes 7 de junio de 2024 - Recompensas gratis",
+"description": "<!--cache-->Estos son todos los códigos gratis de Garena Free Fire MAX que podrás canjear hoy, viernes 7 de junio de 2024. Consigue recompensas como skins, diamantes y mucho más.<!--aa--->El éxito para móviles Android e iOS, Garena Free Fire MAX, ha recibido …",
+"url": "https://vandal.elespanol.com/noticia/1350771881/free-fire-max-codigos-de-hoy-viernes-7-de-junio-de-2024-recompensas-gratis/",
+"urlToImage": "https://media.vandal.net/ivandal/12/63/1200x630/6/6-2024/7/202467858340_1.jpg",
+"publishedAt": "2024-06-07T06:58:00Z",
+"content": "El éxito para móviles Android e iOS, Garena Free Fire MAX, ha recibido nuevos códigos diarios para hoy viernes 7 de junio de 2024. Los jugadores pueden canjear estos códigos para recibir recompensas … [+2702 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Taisy0.com"
+},
+"author": "taisy0",
+"title": "KDDI、Apple Watchやチューナーレススマートテレビなどが最大16,500円オフになる｢au +1 collection夏まつり2024｣を開始",
+"description": "KDDIが、本日より、au公式アクセサリー「au +1 collection」で提供しているApple Watchやチューナーレススマートテレビなどの対象製品が最大16,500円オフとなる「au +1 collection夏まつり2024」",
+"url": "https://taisy0.com/2024/06/07/200977.html",
+"urlToImage": "https://taisy0.com/wp-content/uploads/2021/03/aulogo202103-min.jpg",
+"publishedAt": "2024-06-07T05:35:18Z",
+"content": "KDDIauau +1 collectionApple Watch16,500au +1 collection2024\r\n<ul><li>Apple Watch<ul><li>Apple Watch SE25,500</li><li>Apple Watch Series 911,000</li><li>Apple Watch Ultra 211,000</li></ul></li></ul><u… [+362 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "PhoneArena"
+},
+"author": "Alan Friedman",
+"title": "Apple makes big change to iPhone and Apple Watch warranties making you pay for this damage",
+"description": "Apple is no longer covering hairline cracks to iPhone and Apple Watch displays under the products' warranties.",
+"url": "https://www.phonearena.com/news/hairline-cracks-no-longer-covered-by-iphone-apple-watch-warranties_id159153",
+"urlToImage": "https://m-cdn.phonearena.com/images/article/159153-wide-two_1200/Apple-makes-big-change-to-iPhone-and-Apple-Watch-warranties-making-you-pay-for-this-damage.jpg",
+"publishedAt": "2024-06-07T04:06:12Z",
+"content": "Enjoy the hottest mobile tech storylines, delivered straight to your inbox."
+},
+{
+"source": {
+"id": null,
+"name": "BBC News"
+},
+"author": null,
+"title": "The Nvidia CEO christened the Taylor Swift of tech",
+"description": "Nvidia CEO Jensen Huang has nothing short of rock star status, which is on full display at events.",
+"url": "https://www.bbc.com/news/articles/cq55ek28z98o",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8656/live/0e9fa080-23e5-11ef-af4d-8dad44b09ce4.jpg",
+"publishedAt": "2024-06-07T00:19:12Z",
+"content": "Annabelle Liang,Business reporter\r\nMr Huang was a draw for attendees of Taiwan's Computex event\r\nThese days, wherever Jensen Huang goes, adoring crowds chant his name and scramble for selfies and aut… [+4163 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Sspai.com"
+},
+"author": "少数派编辑部",
+"title": "派早报：徕卡推出 Leica Lux 相机应用、Apple 2024 年设计大奖得主公布等",
+"description": "15 款进口网络游戏获批版号，佳能发布新款广角定焦镜头等查看全文",
+"url": "https://sspai.com/post/89427",
+"urlToImage": "https://cdnfile.sspai.com/6/7/2024/article/8633efaa-1969-2716-1bb9-4e79e1332ad6.png",
+"publishedAt": "2024-06-07T00:35:03Z",
+"content": "Leica Lux \r\n6 7 Leica Lux App Store 11 Leica Looks Leica Lux Apple \r\nThe Verge Leica Lux \r\nLeica Looks $6.99 $69.99\r\nApple 2024 \r\n6 7 Apple 14 app 7 app 42 New York Times GamesOkoCrayola AdventuresPr… [+885 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Sapo.pt"
+},
+"author": "Pedro Simões",
+"title": "Apple terá uma surpresa para a segurança! App Passwords pode ser apresentada na WWDC",
+"description": "Estamos a poucos dias do início da WWDC de 2024. Este será o palco onde a Apple irá revelar as novidades que desenvolverá para os seus sistemas operativos durante os próximos meses. As novidades...",
+"url": "https://pplware.sapo.pt/apple/apple-pode-ter-uma-surpresa-para-a-seguranca-app-passwords-pode-ser-apresentada-na-wwdc/",
+"urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2024/06/apple_passwords_1.jpg",
+"publishedAt": "2024-06-07T07:00:11Z",
+"content": "Estamos a poucos dias do início da WWDC de 2024. Este será o palco onde a Apple irá revelar as novidades que desenvolverá para os seus sistemas operativos durante os próximos meses. As novidades vão … [+1987 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Macotakara.jp"
+},
+"author": "danbo",
+"title": "デクスコムジャパン、リアルタイムCGM「Dexcom G7 CGMシステム」を発売",
+"description": "Dexcom G7 CGMシステム\r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- テキスト -->\n\nデクスコムジャパンが、リアルタイムCGM「[Dexcom G7 CGMシステム](https://www.dexcom.com/ja-jp/dexcom-g7-cgm-system)」を発売しています。\n\n２歳以上のインスリン自己注射を1日に1回以上行っているすべての糖尿病患者が保険診療下で利用できます。\n\n間質液中のグルコース濃度の変化を把握し、糖…",
+"url": "https://www.macotakara.jp/accessories/entry-46865.html",
+"urlToImage": "https://www.macotakara.jp/archives/001/202406/043004a97bf4bcff.jpg",
+"publishedAt": "2024-06-07T00:23:51Z",
+"content": "CGMDexcom G7 CGM\r\n11\r\niPhone/Apple WatchDexcom G7\r\nDexcom G7"
+},
+{
+"source": {
+"id": null,
+"name": "Macotakara.jp"
+},
+"author": "danbo",
+"title": "Apple、バグ修正したiPad用音楽製作アプリ「Logic Pro for iPad 2.0.1」を配信開始",
+"description": "Logic Pro for iPad\r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- テキスト -->\n\nAppleが、iPad用音楽制作アプリ「[Logic Pro for iPad 2.0.1](https://apps.apple.com/jp/app/logic-pro-for-ipad/id1615087040?&uo=4&at=10l3IJ)」を、App Storeにて配信を開始しています。\n\n1か月間の無料トライアルを経て、終了後は月額7…",
+"url": "https://www.macotakara.jp/etc/category-60/entry-46869.html",
+"urlToImage": "https://www.macotakara.jp/archives/001/202305/c794c0978e5cd4270b92f61a335599efcd6691f2e2141cbf06ef8a1f75b91837.png",
+"publishedAt": "2024-06-07T01:56:51Z",
+"content": "AppleiPadLogic Pro for iPad 2.0.1App Store\r\n17007,000\r\nLogic Pro for iPadiPadOS 17.4A12 BioniciPadiPad"
+},
+{
+"source": {
+"id": null,
+"name": "Macmagazine.com.br"
+},
+"author": "Yan Avelino",
+"title": "Nova contratação do Apple TV+ reforça foco em publicidade no serviço",
+"description": "A Apple contratou Mike Lewinsky, ex-vice-presidente sênior da 160over90, para fortalecer suas parcerias de marca no Apple TV+, indicando um foco maior da empresa em se tornar um grande player no espaço publicitário. Espera-se que Lewinsky assuma um papel simi…",
+"url": "https://macmagazine.com.br/post/2024/06/06/nova-contratacao-do-apple-tv-reforca-foco-em-publicidade-no-servico/",
+"urlToImage": "https://macmagazine.com.br/wp-content/uploads/2024/06/06-mike-lewinsky.jpg",
+"publishedAt": "2024-06-07T00:15:49Z",
+"content": "A Apple contratou Mike Lewinsky, ex-vice-presidente sênior da 160over90, para fortalecer suas parcerias de marca no Apple TV+, indicando um foco maior da empresa em se tornar um grande player no espa… [+2123 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "MacGeneration"
+},
+"author": "Félix Cattafesta",
+"title": "Apple aurait prévu un vrai gestionnaire de mots de passe pour iOS 18 et macOS 15",
+"description": "À quelques jours de la WWDC, le bal des rumeurs bat son plein. Mark Gurman vient de remettre dix balles dans la machine en affirmant que Cupertino s’apprête à dévoiler un véritable gestionnaire de mot de passe pour iOS 18, iPadOS 18 et macOS 15. L’app serait …",
+"url": "https://www.macg.co/macos/2024/06/apple-aurait-prevu-un-vrai-gestionnaire-de-mots-de-passe-pour-ios-18-et-macos-15-144147",
+"urlToImage": "https://cdn.mgig.fr/2024/06/mga-740890b7-w375-w1500-w750_accroche.jpg",
+"publishedAt": "2024-06-07T05:00:00Z",
+"content": "À quelques jours de la WWDC, le bal des rumeurs bat son plein. Mark Gurman vient de remettre dix balles dans la machine en affirmant que Cupertino sapprête à dévoiler un véritable gestionnaire de mot… [+1269 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Gori.me"
+},
+"author": "g.O.R.i",
+"title": "Apple、”1Password潰し”か。iOS 18やmacOS 15で独立したパスワード管理アプリを準備中との噂",
+"description": "Appleは「iOS 18」「iPadOS 18」「macOS 15」などの次期OSで、独立したパスワード管理アプリを発表する可能性がある。Bloombergの人気ジャーナリストMark Gurman氏が明らかにした。 すでにiPhoneやiPadにはパスワード管理機能が設定アプリに含まれており、M…\nThe post Apple、”1Password潰し”か。iOS 18やmacOS 15で独立したパスワード管理アプリを準備中との噂 first appeared on ゴリミー. 【もっと読む】",
+"url": "https://gori.me/ipad/ipad-news/153622",
+"urlToImage": "https://gori.me/uploads/2024/06/ios18-all-image-800x553.jpg",
+"publishedAt": "2024-06-07T05:52:00Z",
+"content": "AppleiOS 18iPadOS 18macOS 15OSBloombergMark Gurman\r\niPhoneiPadMaciCloudAppleID\r\nWi-FiVision ProWindows1PasswordLastPass\r\nWindowsAndroid1PasswordLastPass\r\n6112WWDC24iPhoneiPhone 169"
+},
+{
+"source": {
+"id": null,
+"name": "Gori.me"
+},
+"author": "g.O.R.i",
+"title": "iOS 18の純正メールアプリ、AIを使った「スマートリプライ」機能を実装か",
+"description": "「iOS 18」の純正メールアプリは、AIを活用した新機能が2つ実装される可能性がある。 AppleInsiderによると、1つ目は検索機能の改良。特定のメールを検索した場合、連絡先、位置情報、内部に保存された資料などがあわせて表示されるという。 2つ目は「スマートリプライ」。AppleのLLMとS…\nThe post iOS 18の純正メールアプリ、AIを使った「スマートリプライ」機能を実装か first appeared on ゴリミー. 【もっと読む】",
+"url": "https://gori.me/ios/ios-news/153624",
+"urlToImage": "https://gori.me/uploads/2024/06/ios18-all-image-2-800x544.jpg",
+"publishedAt": "2024-06-07T06:32:54Z",
+"content": "iOS 18AI2\r\nAppleInsider1\r\n2AppleLLMSiriGmail\r\niOS 18OSSiri\r\n6112WWDC24iPhoneiPhone 169"
+},
+{
+"source": {
+"id": null,
+"name": "Expansion.com"
+},
+"author": "expansion.com",
+"title": "La Primera de Expansión sobre BBVA, tipos de interés, Inditex, Mbappé, Samsung y la IA",
+"description": "También analizaremos con el periodista especializado de EXPANSIÓN, Andrés Stumpf, el último movimiento del Banco Central Europeo y la rebaja de tipos y hablaremos sobre...",
+"url": "https://www.expansion.com/podcasts/la-primera-de-expansion/2024/06/07/66629724e5fdea337d8b45a2.html",
+"urlToImage": "https://phantom-expansion.unidadeditorial.es/966f16a45bcd2322a0d7bdd6580ee979/f/webp/assets/multimedia/imagenes/2024/06/07/17177364930417.jpg",
+"publishedAt": "2024-06-07T05:28:04Z",
+"content": "Este viernes les contamos que BBVA moviliza a sus accionistas para que participen en su próxima junta extraordinaria y apoyen la opa por Sabadell. También analizaremos con el periodista especializado… [+726 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Thenewslens.com"
+},
+"author": "中央通訊社",
+"title": "取日式踏步、美式托擊特長，國軍刺槍術近一甲子落幕，「文人部長」顧立雄啟動國防革新項目一次看",
+"description": "國防部長顧立雄6日在立法院指出，現行國軍訓練項目中已有近戰格鬥基本教練，因此凡不符合近戰格鬥概念範圍均取消，所以像是傳統突刺那種不具近戰格鬥精神項目、形式主義過多不符合戰訓本務等項目，都會加以取消。",
+"url": "https://www.thenewslens.com/article/203684",
+"urlToImage": "https://image1.thenewslens.com/2022/7/0gao2tef99vh8u2yjm5z4v5rmz6z99.jpg?fm=jpg&format=crop&h=630&q=70&w=1200",
+"publishedAt": "2024-06-07T01:50:03Z",
+"content": "30\r\n199430\r\nPhoto Credit: TNL Brand Studio\r\n30\r\nPhoto Credit: TNL Brand Studio\r\nWHO6%-8%\r\nPhoto Credit: TNL Brand Studio\r\nPhoto Credit: TNL Brand Studio\r\n3030 0800-025-885\r\nApple PodcastSpotifyKKBOXC… [+16 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Help Net Security"
+},
+"author": "Help Net Security",
+"title": "June 2024 Patch Tuesday forecast: Multiple announcements from Microsoft",
+"description": "May 2024 Patch Tuesday was unusual because we had security updates from Adobe, Apple, Google, Mozilla, and Microsoft on the same day. While individually from each vendor, the updates weren’t that large, managing them together was more challenging. On the Micr…",
+"url": "https://www.helpnetsecurity.com/2024/06/07/june-2024-patch-tuesday-forecast-multiple-announcements-from-microsoft/",
+"urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/12195711/patch_tuesday_2024.webp",
+"publishedAt": "2024-06-07T05:13:10Z",
+"content": "May 2024 Patch Tuesday was unusual because we had security updates from Adobe, Apple, Google, Mozilla, and Microsoft on the same day.\r\nWhile individually from each vendor, the updates werent that lar… [+4513 chars]"
+},
+{
+"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "Belén Liotti",
+"title": "Pasajera rastrea su equipaje perdido hasta la casa de un trabajador del aeropuerto, quien ahora está acusado de robo agravado",
+"description": "Un hombre de Florida enfrenta un cargo de robo agravado después de que una pasajera rastreara su equipaje robado hasta la casa del hombre",
+"url": "https://cnnespanol.cnn.com/2024/06/06/pasajera-rastrea-equipaje-casa-trabajador-aeropuerto-trax/",
+"urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/06/sipausa-11-124972321-80642556.webp",
+"publishedAt": "2024-06-07T01:04:18Z",
+"content": "(CNN) -- Un hombre de Florida enfrenta un cargo de robo agravado en el condado de Broward después de que en marzo una valiente pasajera de una aerolínea que tenía previsto volar desde el Aeropuerto I… [+3769 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Bleeding Cool News"
+},
+"author": "Ray Flook",
+"title": "The Boys S04 Poster Spotlights \"Father of the Year\" Homelander & Ryan",
+"description": "Considering the sneak preview of the fourth season of Prime Video and Showrunner Eric Kripke's The Boys that we were treated to earlier today (more on that below), it feels only right that Ryan (Cameron Crovetti) and Homelander (Antony Starr) would be paired …",
+"url": "https://bleedingcool.com/tv/the-boys-s04-poster-spotlights-father-of-the-year-homelander-ryan/",
+"urlToImage": "https://bleedingcool.com/wp-content/uploads/2024/06/GPP8JjWasAAV_f0-2000x1125.jpg",
+"publishedAt": "2024-06-07T03:07:08Z",
+"content": "Posted in: Amazon Studios, Preview, streaming, TV | Tagged: amazon, preview, prime video, season 4, the boys\r\nHomelander and Ryan get the spotlight in a new character profile poster for Prime Video a… [+4989 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "iphone-ticker.de › iPhone-News seit 2007"
+},
+"author": "Nicolas",
+"title": "Telegram Sterne: Messenger führt digitale Währung ein",
+"description": "Telegram, der populäre Messaging- und Kurznachrichten-Dienst, eröffnet seinen 400 Millionen Nutzern mit der jüngsten Aktualisierung nun die Möglichkeit, digitale Produkte und Dienstleistungen über Bots und Mini-Apps zu verkaufen. Anwender sollen Zahlungen für…",
+"url": "https://www.iphone-ticker.de/telegram-sterne-messenger-fuehrt-digitale-waehrung-ein-236009/",
+"urlToImage": "https://images.iphone-ticker.de/wp-content/uploads/2024/06/telegram-sterne-App.png",
+"publishedAt": "2024-06-07T06:36:39Z",
+"content": "Telegram, der populäre Messaging- und Kurznachrichten-Dienst, eröffnet seinen 400 Millionen Nutzern mit der jüngsten Aktualisierung nun die Möglichkeit, digitale Produkte und Dienstleistungen über Bo… [+1779 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Génération NT"
+},
+"author": "Mathieu M.",
+"title": "Apple doit afficher la durée des mises à jour d'iOS sur ses iPhone",
+"description": "Apple est de plus en plus bousculée à travers le monde et la marque n'est plus en mesure de faire ce que bon lui semble. Ainsi, au Royaume-Uni, Apple doit désormais préciser la durée des mises à jour d'iOS garanties sur ses appareils.",
+"url": "https://www.generation-nt.com/actualites/apple-doit-afficher-duree-mise-jour-ios-iphone-2047814",
+"urlToImage": "https://img.generation-nt.com/iphone-refurb-apple_04B002A301697427.webp",
+"publishedAt": "2024-06-07T05:10:12Z",
+"content": "Si pendant des années Apple s'est imposée comme une référence dans le suivi de ses appareils et notamment pour le portage des nouvelles versions d'iOS sur iPhone. Mais entre temps, Samsung a pris la … [+1511 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Iculture.nl"
+},
+"author": "Gonny van der Zwaag | iCulture.nl",
+"title": "‘iOS 18 krijgt losse app voor wachtwoorden’",
+"description": "Apple is van plan om een eigen Passwords-app uit te brengen, die gaat concurreren met bestaande apps zoals 1Password en LastPass. \nHet artikel ‘iOS 18 krijgt losse app voor wachtwoorden’ lees je op iCulture.",
+"url": "https://www.iculture.nl/nieuws/ios-18-wachtwoorden-app/",
+"urlToImage": "https://www.iculture.nl/wp-json/social-image-generator/v1/image/1398249/?v=13162801717749524",
+"publishedAt": "2024-06-07T06:38:42Z",
+"content": "De losse Passwords-app zal te vinden zijn in iOS 18, iPadOS 18 en macOS 15, meldt Mark Gurman van Bloomberg. Het wordt een eenvoudige manier om toegang te krijgen tot de opgeslagen inloggegevens van … [+2120 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Zive.cz"
+},
+"author": "Martin Chroust",
+"title": "Toto jsou vítězové cen Apple Design Awards 2024. Známe je ještě před startem vývojářské konference WWDC",
+"description": "Apple oznamuje vítěze Apple Design Awards vždy na akci WWDC. • Tentokrát však známe výherce s předstihem...• ...a to proto, že na WWDC bude Apple řešit komplexnější záležitosti",
+"url": "https://mobilmania.zive.cz/clanky/toto-jsou-vitezove-cen-apple-design-awards-2024-zname-je-jeste-pred-startem-vyvojarske-konference-wwdc/sc-3-a-1360250/default.aspx",
+"urlToImage": "https://mobilmania.zive.cz/getthumbnail.aspx?q=100&height=20000&width=20000&id_file=195951605",
+"publishedAt": "2024-06-07T06:50:00Z",
+"content": "Apple na vývojáské konferenci WWDC tradin oceuje hry a aplikace, které mají unikátní design nebo pikové technické parametry. Po letech vak Apple zvolil jinou taktiku, a výherce v jednotlivých kategor… [+2276 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Www.nzz.ch"
+},
+"author": "Marie-Astrid Langer (lma)",
+"title": "Kann Apple auch KI? Wir werden es bald erfahren",
+"description": "Während die Konkurrenz imposante Chatbots, KI-Modelle und -Smartphones vorstellt, hinkt Apple der KI-Welle hinterher. An der Entwicklerkonferenz wird der iPhone-Konzern nun vorstellen, wie er das ändern will. Eine Rolle könnte dabei auch Open AI spielen.",
+"url": "https://www.nzz.ch/technologie/ki-revolution-bei-apple-wie-sich-iphone-und-siri-wandeln-ld.1833167",
+"urlToImage": "https://img.nzz.ch/2024/06/06/83cff00e-a305-46ea-a539-a324ba686f88.jpeg?crop=2667,1500,x0,y0&quality=75&auto=webp?width=1200&height=674&fit=bound&quality=75&auto=webp&wmark=nzz",
+"publishedAt": "2024-06-07T03:30:00Z",
+"content": "Neue KI-basierte Funktionen sollen Konsumenten einen Anreiz geben, ihre alten iPhones durch neuere zu ersetzen.\r\nApple hinkt Technologietrends hinterher, das hat der Konzern in den letzten 48 Jahren … [+8015 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Ilsoftware.it"
+},
+"author": "Marco Ponteprino",
+"title": "Apple presenterà la nuova app “Password” la prossima settimana?",
+"description": "Apple sta per presentare l'app Password per iOS, iPadOS, macOS e a sorpresa anche utilizzabile in ambiente Windows.",
+"url": "https://www.ilsoftware.it/apple-presentera-la-nuova-app-password-la-prossima-settimana/",
+"urlToImage": "https://cdn.ilsoftware.it/rtcu30pwkR1PhdFU1MLrTPlujCU=/2120x848/filters:format(webp)/https://www.ilsoftware.it/app/uploads/2024/01/condividere-password-in-sicurezza.jpg",
+"publishedAt": "2024-06-07T07:05:08Z",
+"content": "L’ormai imminente Worldwide Developers Conference 2024 si terrà presso l’Apple Park di Cupertino il prossimo 10 giugno. In questa occasione, Apple presenterà una serie di novità per il suo ecosistema… [+1793 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "[Removed]"
+},
+"author": null,
+"title": "[Removed]",
+"description": "[Removed]",
+"url": "https://removed.com",
+"urlToImage": null,
+"publishedAt": "1970-01-01T00:00:00Z",
+"content": "[Removed]"
+},
+{
+"source": {
+"id": null,
+"name": "[Removed]"
+},
+"author": null,
+"title": "[Removed]",
+"description": "[Removed]",
+"url": "https://removed.com",
+"urlToImage": null,
+"publishedAt": "1970-01-01T00:00:00Z",
+"content": "[Removed]"
+},
+{
+"source": {
+"id": null,
+"name": "[Removed]"
+},
+"author": null,
+"title": "[Removed]",
+"description": "[Removed]",
+"url": "https://removed.com",
+"urlToImage": null,
+"publishedAt": "1970-01-01T00:00:00Z",
+"content": "[Removed]"
+},
+{
+"source": {
+"id": null,
+"name": "The Diplomat"
+},
+"author": "Shannon",
+"title": "Samudra Manthan: Political Churnings in Maldives and the Indian Ocean Region",
+"description": "Daniel Bosley discusses China-India competition and domestic politics in the Maldives, and Rajeswari Pillai Rajagopalan puts that in the context of broader IOR dynamics.",
+"url": "https://thediplomat.com/2024/06/samudra-manthan-political-churnings-in-maldives-and-the-indian-ocean-region/",
+"urlToImage": "https://thediplomat.com/wp-content/uploads/2024/06/sizes/td-story-s-2/thediplomat_2024-06-06-174702.jpg",
+"publishedAt": "2024-06-07T01:55:37Z",
+"content": "After the tumultuous election season in South Asia, this week’s episode of Beyond the Indus takes a look at the geopolitics of the wider Indian Ocean Region (IOR). We speak to Daniel Bosley about the… [+488 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "[Removed]"
+},
+"author": null,
+"title": "[Removed]",
+"description": "[Removed]",
+"url": "https://removed.com",
+"urlToImage": null,
+"publishedAt": "1970-01-01T00:00:00Z",
+"content": "[Removed]"
+},
+{
+"source": {
+"id": null,
+"name": "DIE WELT"
+},
+"author": "Holger Zschäpitz, Anja Ettel",
+"title": "Gewinner der Zinswende und Kurssprungkandidaten nach Nvidia",
+"description": "In der heutigen Folge von “Alles auf Aktien” sprechen die Finanzjournalisten Anja Ettel und Holger Zschäpitz über fettige Gewinne für JM Smucker, ehrgeizige Expansionspläne von Robinhood und enttäuschende Zahlen bei DocuSign.",
+"url": "https://www.welt.de/podcasts/alles-auf-aktien/article251904368/Boersen-Podcast-Netflix-Chipotle-ASML-Rheinmetall-das-sind-die-naechsten-Splitkandidaten-nach-Nvidia.html",
+"urlToImage": "https://img.welt.de/img/podcasts/alles-auf-aktien/mobile244546290/0511356647-ci16x9-w1200/ettel-zschae-DWO-Podcast-Teaser-AllesAufAktien-mit-2zu3-ettel-zschaepitz-aw.jpg",
+"publishedAt": "2024-06-07T02:52:16Z",
+"content": "Außerdem geht es um Vonovia, LEG, Aroundtown, Deutsche Bank, Commerzbank, Nvidia, Gamestop, Robinhood, DocuSign, JM Smucker, Nemetschek, SAP, Tui, Rational, Deutsche Börse, Traton, Morphosys, Sixt, S… [+766 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": null,
+"title": "Is Apple Inc. (AAPL) A High Quality Stock to Buy Now?",
+"description": null,
+"url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ab6c245e-fe2f-4a7d-a43f-7ecdce774c9a",
+"urlToImage": null,
+"publishedAt": "2024-06-07T03:58:24Z",
+"content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "BBC News"
+},
+"author": "Annabelle Liang - Business reporter",
+"title": "Why is Nvidia boss the 'Taylor Swift of tech'?",
+"description": "Jensen Huang is at the forefront of an AI boom, which coincides with Nividia's rise as a leading chip firm.",
+"url": "https://www.bbc.com/news/articles/cq55ek28z98o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+"urlToImage": "https://media.zenfs.com/en/bbc_us_articles_995/3addfba045691256bdf4a746e567ceec",
+"publishedAt": "2024-06-07T04:39:58Z",
+"content": "These days, wherever Jensen Huang goes, crowds chant his name and scramble for selfies and autographs.\r\nHe is not your usual celebrity - rather, the 61-year-old electrical enginer is the chief execut… [+6422 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Ramish Cheema",
+"title": "Is NVIDIA Corporation A Good Quality Stock to Buy Now?",
+"description": "We recently compiled the list of the 13 Best Quality Stocks To Buy according to the hedge funds using the latest sentiment data. In this article, we are...",
+"url": "https://finance.yahoo.com/news/nvidia-corporation-good-quality-stock-035010891.html",
+"urlToImage": "https://media.zenfs.com/en/insidermonkey.com/e861f0000b1f474a52882439401a1356",
+"publishedAt": "2024-06-07T03:50:10Z",
+"content": "We recently compiled the list of the 13 Best Quality Stocks To Buy according to the hedge funds using the latest sentiment data. In this article, we are going to take a look at where NVIDIA Corporati… [+8440 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Lupa.cz"
+},
+"author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+"title": "Rusko stvořilo zastaralý stroj na výrobu čipů, Nvidia překonala Apple, ARM má nahradit Intel v polovině počítačů",
+"description": "HBM je nejslavnější slovo v byznysu s AI. ASML je druhou nejhodnotnější firmou Evropy. Největším odběratelem AI čipů od Nvidie je Microsoft. Zprávy z IT, každý pátek na Lupě.",
+"url": "https://www.lupa.cz/clanky/rusko-stvorilo-zastaraly-stroj-na-vyrobu-cipu-nvidia-prekonala-apple-arm-ma-nahradit-intel-v-polovine-pocitacu/",
+"urlToImage": "https://i.iinfo.cz/images/59/jensen-huang-nvidia_watermark-lupa-cz.webp",
+"publishedAt": "2024-06-07T04:30:00Z",
+"content": "Vdy v pátek pipravuje reportér Jan Sedlák výbr zajímavých zpráv ze svta IT. Co se událo v tomto týdnu?\r\nRusko údajn vyvinulo vlastní litografický stroj pro dleitou ást výroby ip. Taková alternativa k… [+9886 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Lupa.cz"
+},
+"author": "redakce@lupa.cz (Lupa.cz: Jan Vaca)",
+"title": "Filip Rožánek (Digizone): Koncesionářské poplatky má nově platit na 600 tisíc domácností. Otázkou je, co bude po volbách",
+"description": "Příklad Slovenska ukazuje, jak rychle se po politickém obratu mohou veřejnoprávní média dostat pod kontrolu vlády. Jaké scénáře jsou pravděpodobné v Česku? Uvnitř: PODCAST.",
+"url": "https://www.lupa.cz/clanky/filip-rozanek-digizone-koncesionarske-poplatky-ma-nove-platit-na-600-tisic-domacnosti-otazkou-je-co-bude-po-volbach/",
+"urlToImage": "https://i.iinfo.cz/images/594/televizni-poplatky-1_watermark-lupa-cz.webp",
+"publishedAt": "2024-06-07T04:30:01Z",
+"content": "Pokud vyjde vládní plán, zanou ei tak od ledna pítího roku platit více za sledování eské televize (T) a poslech eského rozhlasu (Ro). Konkrétn 150 korun za televizi, co je o patnáct korun víc ne dosu… [+3578 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "CHIP Online Deutschland"
+},
+"author": "Redaktion CHIP",
+"title": "iOS 18: Welche iPhones wann das Update bekommen",
+"description": "Am Montag stellt Apple nicht nur die neuen Funktionen in iOS 18 offiziell vor, sondern startet auch mit der Verteilung der ersten Beta-Versionen. Welche iPhones von den neuen Features profitieren und wann das finale Release von iOS 18 erscheint, lesen Sie hie…",
+"url": "https://www.chip.de/news/iOS-18-Welche-iPhones-wann-das-Update-bekommen_185165287.html",
+"urlToImage": "https://www.chip.de/ii/1/2/6/8/8/6/0/6/7/iOS-18-Siri-credit-dall-e3-gronau-408d1c17b883654b.jpg",
+"publishedAt": "2024-06-07T05:03:00Z",
+"content": "Wie schon die letzten Generationen wird auch das neue iPhone 16 vermutlich im September erscheinen. Zeitgleich mit dem Verkaufsstart lässt sich dann auch iOS 18 kostenlos herunterladen.\r\nDoch welche … [+1075 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "CHIP Online Deutschland"
+},
+"author": "Redaktion CHIP",
+"title": "Ende Juli ist Schluss: Auf diesen TV-Geräten können Sie bald kein Netflix mehr nutzen",
+"description": "Auf einigen TV-Geräten können Nutzer bald kein Netflix mehr schauen. Der Streaming-Dienst stellt den Support für mehrere Modelle ein.",
+"url": "https://www.chip.de/news/Bald-kein-Netflix-mehr-Diese-TV-Geraete-sind-betroffen_185304242.html",
+"urlToImage": "https://www.chip.de/ii/1/2/6/9/2/8/4/9/4/Netflix_TV-f563a85744bce4fb.jpg",
+"publishedAt": "2024-06-07T04:31:00Z",
+"content": "Um festzustellen, ob Ihr Sony-Fernseher von der Einstellung des Netflix-Supports betroffen ist, sollten Sie das Modell Ihres Geräts prüfen. Die Modellnummer verrät Ihnen, zu welcher Serie Ihr Fernseh… [+922 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Iphon.fr"
+},
+"author": "Pierre Otin",
+"title": "Quand, où et comment suivre le keynote WWDC 2024 (iOS 18, macOS 15, Apple Vision, etc.) ?",
+"description": "Tous les détails pour ne pas manquer une seule de annonces de ce prochain Keynote.",
+"url": "https://www.iphon.fr/post/comment-suivre-conference-keynote-wwdc-2024-ios-18",
+"urlToImage": "https://www.iphon.fr/app/uploads/2024/05/apple-event-keynote-wwdc24.jpg",
+"publishedAt": "2024-06-07T07:03:20Z",
+"content": "Le 27 mars dernier, Apple annonçait les dates de la WWDC 2024 : du 10 au 14 juin. Plus récemment, on apprenait sans surprise que le premier jour serait marqué par la diffusion d’un Keynote d’ouvertur… [+3580 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Paul Tan's Automotive News"
+},
+"author": "Izwaashura Sadali",
+"title": "Porsche Panamera 2024 di Malaysia – 2.9L biturbo V6, 353 PS/500 Nm, suspensi udara PASM; dari RM1.3 juta",
+"description": "Diperkenalkan secara rasmi pada November 2023, namun tempahan bagi Porsche Panamera generasi ketiga ini baru dibuka untuk Malaysia pada bulan lalu. Grand tourer empat-pintu ini tiba di pasaran tempatan dengan harga bermula RM1.3 juta. Kini kami mempertontonka…",
+"url": "https://paultan.org/2024/06/07/porsche-panamera-2024-di-malaysia-2-9l-biturbo-v6-353-ps-500-nm-suspensi-udara-pasm-dari-rm1-3-juta/",
+"urlToImage": "https://paultan.org/image/2024/06/2024-Porsche-Panamera_Ext-1-BM-1200x800.jpg",
+"publishedAt": "2024-06-07T03:14:01Z",
+"content": "Diperkenalkan secara rasmi pada November 2023, namun tempahan bagi Porsche Panamera generasi ketiga ini baru dibuka untuk Malaysia pada bulan lalu. Grand tourer empat-pintu ini tiba di pasaran tempat… [+2500 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Paul Tan's Automotive News"
+},
+"author": "Mick Chan",
+"title": "2024 GWM Ora 07 Performance EV – 408 PS/680 Nm, 483 km range WLTP; arriving in Malaysia this month",
+"description": "Great Wall Motor Malaysia has announced that the Ora 07 Performance electric vehicle is due to arrive in the country by the end of this month, following the Malaysian market launch of the Ora 07 […]\nThe post 2024 GWM Ora 07 Performance EV – 408 PS/680 Nm, 483…",
+"url": "https://paultan.org/2024/06/07/2024-gwm-ora-07-performance-ev-408-ps-680-nm-483-km-range-wltp-arriving-in-malaysia-this-month/",
+"urlToImage": "https://paultan.org/image/2024/06/2024_MAS_GWM_Ora_07_Performance-1-1200x801.jpg",
+"publishedAt": "2024-06-07T06:01:06Z",
+"content": "Great Wall Motor Malaysia has announced that the Ora 07 Performance electric vehicle is due to arrive in the country by the end of this month, following the Malaysian market launch of the Ora 07 in A… [+2517 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Www.nzz.ch"
+},
+"author": "David Vogel (dv), Simon Schaffer (ssi)",
+"title": "PODCAST - Der Läufer Dominic Lobalu rannte vor dem Elend davon und erhielt Asyl in der Schweiz. An den Olympischen Spielen könnte er ganz vorne mitlaufen. Aber er darf nicht",
+"description": "Als Kind verliert Dominic Lobalu alles und rettet sich in den Laufsport. Doch was wird aus dem Renntalent in der Schweiz?",
+"url": "https://www.nzz.ch/podcast/laeufer-dominic-lobalu-rannte-vor-dem-elend-davon-und-erhielt-asyl-in-der-schweiz-an-den-olympischen-spielen-koennte-er-ganz-vorne-mitlaufen-aber-er-darf-nicht-ld.1832915",
+"urlToImage": "https://img.nzz.ch/2024/05/14/b96c3257-6aca-4e91-84bc-4df8119574e1.jpeg?crop=5111,2875,x0,y200&quality=75&auto=webp?width=1200&height=675&fit=bound&quality=75&auto=webp&wmark=nzz",
+"publishedAt": "2024-06-07T03:30:00Z",
+"content": "Hören und abonnieren Sie den Podcast «NZZ Akzent» auch auf Spotify,Apple Podcasts oder Castbox.\r\nHaben Sie ein Feedback zum Podcast? Sagen Sie uns Ihre Meinung.\r\nIn dieser Podcast-Episode:\r\nStockholm… [+1719 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "ifun.de › Apple-News seit 2001"
+},
+"author": "Nicolas",
+"title": "KI-Aufholjagd: Erst Microsofts Copilot ließ Apple umdenken",
+"description": "Das Wall Street Journal versorgt uns kurz vor dem Wochenende mit einem interessanten Blick in Apples Maschinenraum und versucht unter der Überschrift “Wie Apple im KI-Wettrüsten zurückfiel” zu erklären, warum Apple noch immer auf seine überholte Siri-Sprachas…",
+"url": "https://www.ifun.de/ki-aufholjagd-erst-microsofts-copilot-liess-apple-umdenken-233880/",
+"urlToImage": "https://images.ifun.de/wp-content/uploads/2020/11/craig-macbook-air.jpg",
+"publishedAt": "2024-06-07T06:01:48Z",
+"content": "Das Wall Street Journal versorgt uns kurz vor dem Wochenende mit einem interessanten Blick in Apples Maschinenraum und versucht unter der Überschrift Wie Apple im KI-Wettrüsten zurückfiel zu erklären… [+1711 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Technews.tw"
+},
+"author": "邱 倢芯",
+"title": "蘋果公布 2024 年設計大獎獲獎者",
+"description": "蘋果稍早公佈了蘋果設計大獎獲獎者，表揚 14 款一流的 app 和遊戲。今年的獲獎者包括世界各地的開發團隊。 七個獎項類別分別表揚一款 app、一款遊戲，包括趣味體驗類、多元包容類、創新思維類、互動交流類、社會影響類、視覺藝術類，以及全新的空間運算類。蘋果從 42 名決選入圍者選出獲獎者。 趣味體驗...",
+"url": "https://technews.tw/2024/06/07/2024-apple-design-awards/",
+"urlToImage": "https://img.technews.tw/wp-content/uploads/2024/06/07105049/Apple-WWDC24-Design-Awards-trophy-240606.jpeg",
+"publishedAt": "2024-06-07T02:59:23Z",
+"content": "14 app \r\n app 42 \r\nBears Gratitude\r\n Isuru Wanasinghe app app \r\nNew York Times Games\r\n The New York Times CompanyNew York Times GamesConnections\r\noko\r\n AYES app\r\nCrayola \r\n Red Games Co.\r\nProcreate D… [+377 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Index.hu"
+},
+"author": "Harnisch Kitti",
+"title": "A színész, akinek egy rossz mozdulat törte derékba a karrierjét",
+"description": "A színész, akinek egy rossz mozdulat törte derékba a karrierjét - Will Smith alig kap filmes felkéréseket az ominózus pofon óta.",
+"url": "https://index.hu/fomo/2024/06/07/bad-boys-film-premier-will-smith-kviz/",
+"urlToImage": "https://kep.cdn.index.hu/1/0/5665/56658/566587/56658727_4189381_a0126f9705220e92f3f864c95289d396_wm.jpg",
+"publishedAt": "2024-06-07T05:50:00Z",
+"content": "A héten debütált a hazai mozikban a Will Smith és Martin Lawrence fszereplésével készült Bad Boys Mindent vagy többet, ami már a Bad Boys-filmsorozat negyedik része. A legels még 1995-ben jelent meg,… [+2214 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Ixbt.com"
+},
+"author": "verko@corp.ixbt.com (VerKo)",
+"title": "В App Store появилось фейковое приложение Сбербанка",
+"description": "В официальном онлайн-магазине приложений для мобильной техники Apple появилось приложение под названием «Сбер: Твой Онлайн Банк», которое на самом деле не имеет отношение к Сбербанку.  Как сообщает «Вестник киберполиции России», приложение имитирует «Сбербанк…",
+"url": "https://www.ixbt.com/news/2024/06/07/v-app-store-pojavilos-fejkovoe-prilozhenie-sberbanka.html",
+"urlToImage": "https://www.ixbt.com/img/n1/news/2024/5/5/2024-06-07%2008.55.07.jpg",
+"publishedAt": "2024-06-07T06:05:00Z",
+"content": "- Apple «: », . \r\n « », « », , . , . .\r\n« » , . : \r\n iOS App Store « ». . \r\n« » – Telegram- - . \r\nNokia 3210 (2024) 4G FM-, MP3-, «» YouTube Shorts"
+},
+{
+"source": {
+"id": null,
+"name": "Item-get.com"
+},
+"author": null,
+"title": "Appleが本格的なパスワード管理アプリを発表予定、Windowsにも対応",
+"description": "Appleが、iPhone、iPad、Mac、Vision Pro，Windowsで動作するパスワードアプリをリリースする予定であるとBloombergが報道しています。\nAppleはすでに「iCloudキーチェーン」というパスワード管理機能をiOSやmacOSに実装しています。これは主にログイン情報をiCloudで同期して自動入力するというパスワード管理機能ですが、新しくリリースされる「パスワード」はWindowsにも対応しているということです。...続きを読む",
+"url": "https://ipod.item-get.com/2024/06/applewindows.php",
+"urlToImage": "https://ipod.item-get.com/img/24/06/ios18_passwordmanage.png",
+"publishedAt": "2024-06-07T05:03:05Z",
+"content": "AppleiPhoneiPadMacVision ProWindowsBloomberg\r\nAppleiCloudiOSmacOSiCloudWindows\r\nGoogle Authenticator\r\nApple1PasswordBitwardenProton PassLastPass\r\niOS 18 / iPadOS 18 / macOS 151WWDC 24AI Siri"
+},
+{
+"source": {
+"id": null,
+"name": "Timharford.com"
+},
+"author": "Tim Harford",
+"title": "Cautionary Tales – The Revenge of the Whales",
+"description": "In the middle of the Pacific Ocean, in 1819, Owen Chase is standing on a slowly sinking ship. It’s just been headbutted by an 85 foot whale. It’s taking in water. And now the creature is coming back for another go. This is a whaling ship, and Chase is convinc…",
+"url": "https://timharford.com/2024/06/cautionary-tales-the-revenge-of-the-whales/",
+"urlToImage": "https://timharford.com/wp-content/uploads/2021/04/cropped-favicon.png",
+"publishedAt": "2024-06-07T05:03:00Z",
+"content": "In the middle of the Pacific Ocean, in 1819, Owen Chase is standing on a slowly sinking ship. It’s just been headbutted by an 85 foot whale. It’s taking in water. And now the creature is coming back … [+1473 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Geeky Gadgets"
+},
+"author": "Roland Hutchinson",
+"title": "How to Permanently Delete Any iPhone App",
+"description": "Deleting an app from your iPhone may seem like a straightforward process, but ensuring that all traces of the app and its data are completely removed can be more complex. The video below will walk you through the steps to permanently delete any app from your …",
+"url": "https://www.geeky-gadgets.com/?p=429290",
+"urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2024/06/iPhone-App.jpg",
+"publishedAt": "2024-06-07T06:30:45Z",
+"content": "Deleting an app from your iPhone may seem like a straightforward process, but ensuring that all traces of the app and its data are completely removed can be more complex. The video below will walk yo… [+3369 chars]"
+}
+]
+}

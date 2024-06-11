@@ -1,0 +1,56 @@
+{
+    "_id" : ObjectId("..."),
+    "_type" : "_doc",
+    "_index" : ".bi-index",
+    "_version" : Long(1),
+    "_score" : null,
+    "_source_data":
+  [
+  {
+  "_region":
+  {
+  "name" : String("North America"),
+  "code" : String("NA")
+  },
+  "_product_group":
+  {
+  "name" : String("Widgets"),
+  "code" : String("WID")
+  },
+  "_sales_data":
+  [
+  {
+  "_date_range":
+  [
+  Date("2022-01-01"),
+  Date("2022-01-31")
+  ],
+  "_quantity_sold" : Integer(1000),
+  "_revenue_generated" : Integer(5000)
+  },
+  {
+  "_date_range":
+  [
+  Date("2022-02-01"),
+  Date("2022-02-28")
+  ],
+  "_quantity_sold" : Integer(1200),
+  "_revenue_generated" : Integer(6000)
+  }
+  ],
+  "_meta_data":
+  [
+  {
+  "_id" : Long(1),
+  "_creation_time" : Date.now(),
+  "_update_time" : Date.now()
+  },
+  {
+  "_id" : Long(2),
+  "_creation_time" : Date.now(),
+  "_update_time" : Date.now()
+  }
+  ]
+  }
+  ]
+  }

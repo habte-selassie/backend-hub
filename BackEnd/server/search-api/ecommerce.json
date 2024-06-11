@@ -1,0 +1,36 @@
+{
+    "_id" : ObjectId("..."),
+    "_type" : "_doc",
+    "_index" : ".product-index",
+    "_version" : Long(1),
+    "_score" : null,
+    "_source_data":
+    [
+    {
+    "_product_name":
+    [
+    {
+    "text":
+    {
+    "name":
+    {
+    "en":
+    {
+    "full_text":
+    {
+    "type" : String,
+    "value" : String
+    }
+    }
+    }
+    }
+    }
+    },
+    {
+    "type":"String","value":"product1"},
+    {"type":"String","value":"product2"}
+    ]
+    ,"meta_data":
+    {"_id" : Long(1),"creation_time" : Date.now(),"update_time" : Date.now(),"price_adjustment" : {}}
+    ]
+    }
