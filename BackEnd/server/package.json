@@ -25,5 +25,9 @@
     "my-logger": "^1.0.1",
     "newsapi": "^2.4.1",
     "nodemon": "^3.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
   }
 }
