@@ -69,17 +69,16 @@ const bidSchema = new mongoose.Schema({
         type : String,
         required: true,
         enumerator: ['pending','accepted','rejected','expired','withdrawn' ]
-
-
     },
-    
     BidSource: {
-
+        type : String,
+        
     },
     Comment: {
-
+        type : String,
     }
     
 })
 
 const Bid = mongoose.model('Bid', bidSchema)
+export default Bid
